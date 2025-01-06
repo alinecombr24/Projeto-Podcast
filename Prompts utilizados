@@ -1,0 +1,39 @@
+*****Prompts do CHATGPT****
+Você é um roteirista de podcast, e vamos criar um podcast de carros antigos, focado em fusca. Eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast sobre o carro fusca, feito por apaixonados por esse modelo de carro, e que tenha algum trocadilho de mecânica no nome 
+O podcast vai falar sobre história do fusca, curiosidades, eventos, dicas de mecânica, resolução dos problemas mais recorrentes no carro, os famosos "perrengues"
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho com mecânica, peças do carro e também com o universo nerd 
+
+
+# Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "O Retorno do Fusca - Histórias, mecânica e o lado clássico da força" e tem foco em aventuras como proprietários de fuscas, com o público alvo de apaixonados por esse modelo de carro
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'auto super'
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade da história do fusca
+- no bloco [CURIOSIDADE 2] sobre um problema recorrente, um perrengue do carro e como resolver
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Jonathan e esse foi o Retorno do Fusca dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Jonathan
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+
+
+*****Prompts do LeonardoAI****
+"A countour of a darth vader sillhouete mixing elements from a Beetle car"
